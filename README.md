@@ -1,48 +1,119 @@
-# Hello website!
+## Ritual Design as Resistance
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+Welcome to **Ritual Design as Resistance** - a starter HTML project exploring the intersection of ritual, design, and resistance. This repository is intended as a creative foundation for building a website or digital experience that investigates how ritual practices can serve as forms of social or political resistance.
 
-_Last updated: 28 Feb 2023_
+---
 
-## What's in this project?
+**Table of Contents**
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+- Overview
+- Project Structure
+- Getting Started
+- Inspiration \& Context
+- Next Steps
+- License
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+---
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+### **Overview**
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add using the code in the TODO.
+This project provides a basic HTML, CSS, and JavaScript template. It is designed to be a flexible starting point for anyone interested in experimenting with web-based representations of ritual and resistance. The theme draws on anthropological and sociological research that recognizes rituals not only as stabilizing forces but also as powerful tools for subversion and social change[^6][^4][^3].
 
-Open each file and check out the comments (in gray) for more info.
+---
 
-## Try this next 🏗️
+### **Project Structure**
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+- `index.html`: The main web page. Defines the structure and content.
+- `style.css`: Adds visual styling to the HTML elements.
+- `script.js`: Adds interactivity and dynamic behavior.
+- `assets/`: Place to store images, audio, or other media.
+- `README.md`: This file. Explains the project and how to use it.
+- `TODO.md`: Suggestions for next steps and enhancements.
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+---
 
-## Ready to share your site?
+### **Getting Started**
 
-Add these meta tags for SEO and social sharing between your page `<head></head>` tags, changing the values for your site:
+1. **Clone the Repository**
 
 ```
-<link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
-<meta name="description" content="A simple website, built with Glitch. Remix it to get your own."/>
-<meta name="robots" content="index,follow" />
-<meta property="og:title" content="Hello World!" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
-<meta property="og:description" content="A simple website, built with Glitch. Remix it to get your own."/>
-<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"/>
-<meta name="twitter:card" content="summary" />
+git clone https://github.com/asiakay/ritual-design-as-resistance.git
+cd ritual-design-as-resistance
 ```
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+2. **Open in Your Browser**
+    - Open `index.html` in your preferred browser to view the site.
+3. **Edit and Experiment**
+    - Modify `index.html`, `style.css`, or `script.js` to customize your ritual design project.
+    - Add your own assets (images, audio, etc.) to the `assets/` folder.
 
-## You built this with Glitch!
+---
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+### **Inspiration \& Context**
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+The concept of "ritual design as resistance" is inspired by research showing that rituals can be both stabilizing and subversive. Across cultures, ritual practices have been used to challenge dominant ideologies, negotiate power, and enact social change[^6][^4]. For example:
+
+- In Korea, shamanistic rituals have been adapted by student protestors as symbolic acts of resistance against state authority, blending folk culture with political activism[^3].
+- In rural Japan, local shrine rituals evolved into mediums for negotiating power and expressing opposition during periods of social transformation[^4].
+- Contemporary research explores how repeated gestures, songs, and communal rites become acts of resistance, especially when intertwined with art and politics[^5].
+
+This project encourages you to explore these themes digitally-whether through storytelling, interactive art, or community engagement.
+
+---
+
+### **Next Steps**
+
+- Check out `TODO.md` for ideas on extending the project.
+- Integrating multimedia elements (audio, video, animation) to represent ritual practices.
+- Exploring collaborations with artists, activists, or researchers interested in ritual and resistance.
+
+---
+
+### **License**
+
+This project is open source. Feel free to remix, adapt, and share your work!
+
+
+> “Rituals can embody struggles against authority, challenging normative understandings of power and order.”[^6]
+
+---
+
+**Questions or ideas?** Open an issue or start a discussion!
+
+
+
+[^1]: https://github.com/asiakay/ritual-design-as-resistance
+
+[^2]: https://github.com/ajcci/sky130_ajc_ip__por
+
+[^3]: https://ehrafworldcultures.yale.edu/cultures/aa01/documents/069
+
+[^4]: https://www.journals.uchicago.edu/doi/pdfplus/10.1086/jar.51.4.3630140
+
+[^5]: https://www.selebe-yoon.com/news/for-a-counter-mapping-of-resistance-practices-art-ritual-and-politics
+
+[^6]: https://www.academia.edu/48688814/Ritual_and_Resistance_Subversion_as_a_Social_Fact
+
+[^7]: https://github.com/rock913/paper-on-AI
+
+[^8]: https://www.instagram.com/miss__sammie/?api=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B3%87%E6%A0%AA%E5%B7%B4%E8%BE%96%E7%BA%A6%E7%82%AEWhatsApp%EF%BC%9A601167898268%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1.ogrm
+
+[^9]: https://github.com/oskardudycz/ArchitectureWeekly/blob/main/Summary.md?plain=1
+
+[^10]: https://www.academia.edu/123167276/_Navigating_Mediterranean_Maritime_Mass_Mobilities_Low_Cost_Passengers_in_the_Age_of_Steam_1869_1914_9th_IMHA_Congress_of_Maritime_History_Busan_19_24_August_2024
+
+[^11]: https://www.instagram.com/p/DIOZnGgO2pf/?locale=zh_tw
+
+[^12]: https://cap-press.com/books/isbn/9781594601576/Asian-Ritual-Systems
+
+[^13]: https://www.jstor.org/stable/jj.18254114
+
+[^14]: https://www.degruyterbrill.com/document/doi/10.1515/9780824842529-010/html
+
+[^15]: https://www.instagram.com/jackihollandstudio/?api=bongdalu【GB777.BET】.kbix
+
+[^16]: https://www.jstor.org/stable/20062656
+
+[^17]: https://github.com/JCBrouwer/maua-stylegan2
+
+<div style="text-align: center">⁂</div>
